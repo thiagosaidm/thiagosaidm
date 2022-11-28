@@ -1,4 +1,4 @@
-## Oi seja bem vindo(a)! 🙋🏾‍♂️
+## Oi, seja bem vindo(a)! 🙋🏾‍♂️
 ## Podem me chamar de Said!
 
 ### Amo programação e seus desafios.
