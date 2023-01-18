@@ -3,13 +3,13 @@ Olá, meu nome é Thiago Said e sou um desenvolvedor front-end. Atualmente estou
 
 Estou buscando entrar no mercado de trabalho como desenvolvedor front-end e estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
-# O que você encontrará aqui 🔍
+# Sobre o repositório 🔍
 Neste repositório, você encontrará projetos desenvolvidos por mim que demonstram minhas habilidades e meu conhecimento nessas tecnologias.
 
-# O que estou procurando 🎯
+# Objetivo 🎯
 Estou procurando uma oportunidade para entrar no mercado de trabalho como desenvolvedor front-end, seja em uma equipe de desenvolvimento ou como freelancer. Estou disposto a aprender e trabalhar duro para desenvolver minhas habilidades e me tornar um membro valioso da equipe.
 
-# Como entrar em contato 📡
+# Contato 📡
 Se você tiver alguma dúvida, sugestão ou quiser trabalhar juntos em algum projeto, fique à vontade para entrar em contato comigo pelo e-mail thiag.said@gmail.com ou pelo meu perfil do LinkedIn: https://www.linkedin.com/in/thiago-said-soares/. 
 
 Também estou disponível para uma conversa para saber mais sobre minhas habilidades e experiência.
