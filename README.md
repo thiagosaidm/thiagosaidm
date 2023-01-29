@@ -1,7 +1,7 @@
 # Sobre mim 👨🏾‍💻
 Olá, meu nome é Thiago Said e sou um desenvolvedor front-end. Atualmente estou no terceiro semestre de Análise e Desenvolvimento de Sistemas e adoro trabalhar com HTML, CSS, JavaScript, Bootstrap e React. 
 
-Estou buscando entrar no mercado de trabalho como desenvolvedor front-end e estou sempre em busca de novos desafios e oportunidades de aprendizado.
+Estou buscando entrar no mercado de trabalho como desenvolvedor front-end, enquanto vou estudando o back-end e ser Full Stack. Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
 # Sobre o repositório 🔍
 Neste repositório, você encontrará projetos desenvolvidos por mim que demonstram minhas habilidades e meu conhecimento nessas tecnologias.
