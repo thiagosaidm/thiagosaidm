@@ -1,25 +1,64 @@
-# Sobre mim 👨🏾‍💻
-Olá, meu nome é Thiago Said e sou um desenvolvedor front-end. Atualmente estou no quarto semestre de Análise e Desenvolvimento de Sistemas.
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/thiagosaidm/thiagosaidm/blob/main/bnn.png" />
+&nbsp;&nbsp;&nbsp;
+<h2 align="center"> Quality Assurance Tester 👾 </h2>&nbsp;
+<p align="center">With every bug I find, I see an opportunity to learn ; I'm dedicated to enhancing quality, contributing to project success, and continually growing on the software testing journey. 🚀</p>&nbsp;
 
-Estou buscando entrar no mercado de trabalho como desenvolvedor front-end, enquanto vou estudando o back-end e ser Full Stack. 
-Estou sempre em busca de novos desafios e oportunidades de aprendizado.
-
-# Sobre o repositório 🔍
-Neste repositório, você encontrará projetos desenvolvidos por mim que demonstram minhas habilidades e meu conhecimento nessas tecnologias.
-
-# Objetivo 🎯
-Estou procurando uma oportunidade para entrar no mercado de trabalho como desenvolvedor front-end, seja em uma equipe de desenvolvimento ou como freelancer. Estou disposto a aprender e trabalhar duro para desenvolver minhas habilidades e me tornar um membro valioso da equipe.
-
-# Contato 📡
-Se você tiver alguma dúvida, sugestão ou quiser trabalhar juntos em algum projeto, fique à vontade para entrar em contato comigo pelo e-mail thiag.said@gmail.com ou pelo meu perfil do LinkedIn: https://www.linkedin.com/in/thiago-said-soares/. 
-
-Também estou disponível para uma conversa para saber mais sobre minhas habilidades e experiência.
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thiagosaidm&theme=radical&mode=weekly" />
+ </div>
+ 
+ &nbsp;
+ &nbsp;
 
 
-# Skills 🐱‍👤
----
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
----
+## My Skills
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosaidm&show_icons=true&theme=transparent)
+#### Main Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Others:
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+
+#### Studying in this moment:
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Robotframework](https://img.shields.io/badge/robotframework-%23000000.svg?style=for-the-badge&logo=robotframework&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
+
+#### Databases:
+
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Pycharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-E95420?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Contacts:
+
+<div> 
+<a href="https://www.instagram.com/thiagosaid_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href = "mailto:thiag.said@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/thiago-said-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=097969&height=120&section=footer"/>
+
+
