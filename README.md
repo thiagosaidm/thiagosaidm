@@ -3,9 +3,6 @@
 <h2 align="center"> Quality Assurance Tester 👾 </h2>&nbsp;
 <p align="center">With every bug I find, I see an opportunity to learn ; I'm dedicated to enhancing quality, contributing to project success, and continually growing on the software testing journey. 🚀</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thiagosaidm&theme=radical&mode=weekly" />
- </div>
  
  &nbsp;
  &nbsp;
@@ -17,6 +14,7 @@
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Javascript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=ffdd54)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
