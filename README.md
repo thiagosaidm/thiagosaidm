@@ -1,6 +1,6 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/thiagosaidm/thiagosaidm/blob/main/bnn.png" />
 &nbsp;&nbsp;&nbsp;
-<h2 align="center"> Quality Assurance Tester 👾 </h2>&nbsp;
+<h2 align="center"> QA Tester 👾 </h2>&nbsp;
 <p align="center">With every bug I find, I see an opportunity to learn ; I'm dedicated to enhancing quality, contributing to project success, and continually growing on the software testing journey. 🚀</p>&nbsp;
 
  
