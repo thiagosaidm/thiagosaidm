@@ -21,34 +21,16 @@ Experiência com análise de dados, construção de dashboards e geração de in
 
 ## 📊 Projetos de Dados
 
-### 📈 Dashboard de Vendas
-Análise de performance comercial com indicadores de faturamento, ticket médio e crescimento mensal utilizando **Power BI**.
+### 📈 Dashboard Comercial e Logística
+Análise de performance comercial com indicadores de faturamento, distribuição de produtos e transportadoras utilizando **Power BI** e **PowerQuery** para manipulação e tratamento de dados.
 
 Principais análises:
 - Receita total e evolução mensal
 - Performance por produto
-- Vendas por região
 - Ticket médio
-
----
-
-### 🐍 Análise de Dados com Python
-Exploração e limpeza de dados utilizando **Python** e **Pandas** para identificar padrões e gerar insights.
-
-Principais etapas:
-- Limpeza e tratamento de dados
-- Análise exploratória
-- Visualização de dados
-
----
-
-### 🗄️ Análise de Dados com SQL
-Consulta e manipulação de dados utilizando **SQL** para geração de relatórios analíticos.
-
-Principais práticas:
-- Queries analíticas
-- Agregações
-- Criação de indicadores de negócio
+- Entregas por rotas
+- Atrasos
+- Custo por transporte
 
 ---
 
