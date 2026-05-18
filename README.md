@@ -24,13 +24,8 @@ Experiência com análise de dados, construção de dashboards e geração de in
 ### 📈 Dashboard Comercial e Logística
 Análise de performance comercial com indicadores de faturamento, distribuição de produtos e transportadoras utilizando **Power BI** e **PowerQuery** para manipulação e tratamento de dados.
 
-Principais análises:
-- Receita total e evolução mensal
-- Performance por produto
-- Ticket médio
-- Entregas por rotas
-- Atrasos
-- Custo por transporte
+### ⌚Análise de Vendas de Dispositivos Esportivos
+Dashboard e Relatórios de performance de vendas de uma loja focada em dispotivos esportivos, utilizando **Big Query**, **SQL**, **PowerQuery** e **PowerBI**
 
 ---
 
