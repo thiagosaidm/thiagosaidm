@@ -2,7 +2,7 @@
 
 **Analista de Dados | Business Intelligence**
 
-📍 Florianópolis - SC  
+📍 Palhoça - SC  
 📊 Foco em análise de dados, dashboards e suporte à tomada de decisão.
 
 Formado em Análise e Desenvolvimento de Sistemas e cursando MBA em Business Intelligence.  
